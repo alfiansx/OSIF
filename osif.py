@@ -65,14 +65,14 @@ def show_program():
                     INFORMATION''' + W + """
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
+    Author     Aditia Alfiansyah'InsideHeartz'
     Name       OSIF 'Open Source Information Facebook'
     CodeName   D3b2y
     version    4.0
-    Date       16/05/2018 09:35:12
-    Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Date       15/10/2019 01:16:12
+    Team       Bekasi Security
+    Email      aditiaalfiansyah18@gmail.com
+    Twiter     @AditiaAlfians
 
 * if you find any errors or problems , please contact
   author
