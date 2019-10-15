@@ -67,8 +67,8 @@ def show_program():
 
     Author     Aditia Alfiansyah'InsideHeartz'
     Name       OSIF 'Open Source Information Facebook'
-    CodeName   D3b2y
-    version    4.0
+    CodeName   3RR0R
+    version    1.0
     Date       15/10/2019 01:16:12
     Team       Bekasi Security
     Email      aditiaalfiansyah18@gmail.com
